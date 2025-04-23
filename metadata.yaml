@@ -1,0 +1,58 @@
+_repo: The-coasts-of-illusion-b-A-study-of-travel-tales_75759
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Hambidge, Ruth
+    gutenberg_agent_id: '58124'
+    url: http://www.gutenberg.org/2009/agents/58124
+  - agent_name: Millais, John Everett
+    aliases:
+    - Millais, John Everett, Sir, bart.
+    - Millais, Sir John Everett
+    birthdate: 1829
+    deathdate: 1896
+    gutenberg_agent_id: '58128'
+    url: http://www.gutenberg.org/2009/agents/58128
+    wikipedia: https://en.wikipedia.org/wiki/John_Everett_Millais
+creator:
+  author:
+    agent_name: Firestone, Clark B. (Clark Barnaby)
+    alias: Firestone, Clark Barnaby
+    birthdate: 1869
+    deathdate: 1957
+    gutenberg_agent_id: '58130'
+    url: http://www.gutenberg.org/2009/agents/58130
+description: ''
+edition_note: First edition.
+gutenberg_issued: '2025-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75759'
+  lccn: '24028913'
+language: en
+pgterms:marc904: https://archive.org/details/coastsofillusion0000clar
+pgterms:marc905: 20240124115542firestone
+pgterms:marc906: '1924'
+pgterms:marc907: us
+production_note: Alan, Hannah Wilson and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aNew York :$bHarper & Brothers, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends'
+- !lcsh 'Geographical myths'
+- !lcc 'G'
+- GITenberg
+tableOfContents: Marco talks with his neighbors -- Preface -- The world that was --
+  The earth itself -- Inanimate nature -- The animal kingdom -- The fabulous beasts
+  -- Fable upon wings -- The dragon -- Denizens of the deep -- The peoples of prodigy
+  -- The satyrs -- The pygmies -- The Amazons of legend -- The Amazons of history
+  -- The folk of tradition -- The horizon lands -- Lands of legend -- Islands of enchantment
+  -- The terrible ocean -- The Sargasso Sea -- Atlantis -- The gilded man -- The dream
+  quests of Spain -- The fabric of illusion -- The travel tales of mankind -- The
+  gains of fable.
+title: 'The coasts of illusion : $b A study of travel tales'
+url: http://www.gutenberg.org/ebooks/75759
