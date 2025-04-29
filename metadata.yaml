@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '58128'
     url: http://www.gutenberg.org/2009/agents/58128
     wikipedia: https://en.wikipedia.org/wiki/John_Everett_Millais
+covers:
+- cover_type: archival
+  image_path: 75759-h/images/cover.jpg
 creator:
   author:
     agent_name: Firestone, Clark B. (Clark Barnaby)
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '58130'
     url: http://www.gutenberg.org/2009/agents/58130
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75759#The-coasts-of-illusion-b-A-study-of-travel-tales
 edition_note: First edition.
 gutenberg_issued: '2025-03-31'
 gutenberg_type: Text
